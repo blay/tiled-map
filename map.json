@@ -812,19 +812,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":23,
-         "firstgid":6258,
-         "image":"src\/assets\/hospital-set-preview.png",
-         "imageheight":750,
-         "imagewidth":750,
-         "margin":0,
-         "name":"healthcare",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":67,
          "firstgid":6258,
          "image":"src\/assets\/Wood Garden Assets .png",
